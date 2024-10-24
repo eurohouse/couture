@@ -4,10 +4,8 @@
         "country": "EU", "insignia": "Coffee",
         "maison": "https://coffeeaffection.com/european-coffee-culture",
         "memoir": "In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It’s about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Кафе-культура Европы",
                 "memoir": "По сравнению с тем, как пьют кофе в Соединенных Штатах, Европа все еще знает, как его наслаждаться. Это не тот континент, который любезно наливает свежее пиво в пенопластовый или бумажный стаканчик. Для Европы речь идет не просто о продукте, а именно о напитке. Речь идет об опыте. Мы увидим, что дело не только в самой кофейне, но и в том, как кофе заваривается и потребляется."
             }
@@ -19,8 +17,7 @@
         "sizes": "81-61-87", "nsfw": "true",
         "shoe_size": 8.5, "country": "GB",
         "birthday": "August 12, 1992",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Кара Делевинь" }
         }
     },
@@ -30,8 +27,7 @@
         "sizes": "76-51-86", "nsfw": "true",
         "shoe_size": 10.5, "country": "EU",
         "birthday": "May 4, 1929",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Одри Хепберн" }
         }
     },
@@ -41,8 +37,7 @@
         "sizes": "91-63-91", "nsfw": "true",
         "shoe_size": 7.5, "country": "US",
         "birthday": "September 12, 1997",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Сидни Суини" }
         }
     },
@@ -52,8 +47,7 @@
         "sizes": "91-56-91", "nsfw": "true",
         "shoe_size": 7, "country": "US",
         "birthday": "June 1, 1926",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Мэрилин Монро" }
         }
     },
@@ -63,8 +57,7 @@
         "sizes": "81-64-89", "nsfw": "true",
         "shoe_size": 8, "country": "US",
         "birthday": "May 8, 1992",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Оливия Калпо" }
         }
     },
@@ -74,8 +67,7 @@
         "sizes": "87-64-90", "nsfw": "true",
         "shoe_size": 7, "country": "US",
         "birthday": "March 3, 1997",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Камила Кабельо" }
         }
     },
@@ -85,8 +77,7 @@
         "sizes": "87-61-89", "nsfw": "true",
         "shoe_size": 6.5, "country": "US",
         "birthday": "February 19, 1993",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Виктория Джастис" }
         }
     },
@@ -96,8 +87,7 @@
         "sizes": "85-59-89", "nsfw": "true",
         "shoe_size": 8, "country": "HU",
         "birthday": "October 8, 1993",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Барбара Палвин" }
         }
     }
