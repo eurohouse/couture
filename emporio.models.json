@@ -1,26 +1,4 @@
 {
-    "European Café Culture":
-    {
-        "country": "EU", "insignia": "Coffee",
-        "maison": "https://coffeeaffection.com/european-coffee-culture",
-        "memoir": "In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It’s about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed.",
-        "language": {
-            "RU": {
-                "title": "Кафе-культура Европы",
-                "memoir": "По сравнению с тем, как пьют кофе в Соединенных Штатах, Европа все еще знает, как его наслаждаться. Это не тот континент, который любезно наливает свежее пиво в пенопластовый или бумажный стаканчик. Для Европы речь идет не просто о продукте, а именно о напитке. Речь идет об опыте. Мы увидим, что дело не только в самой кофейне, но и в том, как кофе заваривается и потребляется."
-            }
-        }
-    },
-    "Cara Delevingne":
-    {
-        "height": 1.73, "weight": 51,
-        "sizes": "81-61-87", "nsfw": "true",
-        "shoe_size": 8.5, "country": "GB",
-        "birthday": "August 12, 1992",
-        "language": {
-            "RU": { "title": "Кара Делевинь" }
-        }
-    },
     "Audrey Hepburn":
     {
         "height": 1.7, "weight": 47,
@@ -51,24 +29,14 @@
             "RU": { "title": "Мэрилин Монро" }
         }
     },
-    "Olivia Culpo":
+    "Cara Delevingne":
     {
-        "height": 1.66, "weight": 52,
-        "sizes": "81-64-89", "nsfw": "true",
-        "shoe_size": 8, "country": "US",
-        "birthday": "May 8, 1992",
+        "height": 1.73, "weight": 51,
+        "sizes": "81-61-87", "nsfw": "true",
+        "shoe_size": 8.5, "country": "GB",
+        "birthday": "August 12, 1992",
         "language": {
-            "RU": { "title": "Оливия Калпо" }
-        }
-    },
-    "Camila Cabello":
-    {
-        "height": 1.57, "weight": 50,
-        "sizes": "87-64-90", "nsfw": "true",
-        "shoe_size": 7, "country": "US",
-        "birthday": "March 3, 1997",
-        "language": {
-            "RU": { "title": "Камила Кабельо" }
+            "RU": { "title": "Кара Делевинь" }
         }
     },
     "Victoria Justice":
@@ -81,6 +49,26 @@
             "RU": { "title": "Виктория Джастис" }
         }
     },
+    "Camila Cabello":
+    {
+        "height": 1.57, "weight": 50,
+        "sizes": "87-64-90", "nsfw": "true",
+        "shoe_size": 7, "country": "US",
+        "birthday": "March 3, 1997",
+        "language": {
+            "RU": { "title": "Камила Кабельо" }
+        }
+    },
+    "Olivia Culpo":
+    {
+        "height": 1.66, "weight": 52,
+        "sizes": "81-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "May 8, 1992",
+        "language": {
+            "RU": { "title": "Оливия Калпо" }
+        }
+    },
     "Barbara Palvin":
     {
         "height": 1.75, "weight": 58,
@@ -89,6 +77,18 @@
         "birthday": "October 8, 1993",
         "language": {
             "RU": { "title": "Барбара Палвин" }
+        }
+    },
+    "European Café Culture":
+    {
+        "country": "EU", "insignia": "Coffee",
+        "maison": "https://coffeeaffection.com/european-coffee-culture",
+        "memoir": "In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It’s about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed.",
+        "language": {
+            "RU": {
+                "title": "Кафе-культура Европы",
+                "memoir": "По сравнению с тем, как пьют кофе в Соединенных Штатах, Европа все еще знает, как его наслаждаться. Это не тот континент, который любезно наливает свежее пиво в пенопластовый или бумажный стаканчик. Для Европы речь идет не просто о продукте, а именно о напитке. Речь идет об опыте. Мы увидим, что дело не только в самой кофейне, но и в том, как кофе заваривается и потребляется."
+            }
         }
     }
 }
