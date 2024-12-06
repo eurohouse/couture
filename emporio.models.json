@@ -90,5 +90,38 @@
                 "memoir": "По сравнению с тем, как пьют кофе в Соединенных Штатах, Европа все еще знает, как его наслаждаться. Это не тот континент, который любезно наливает свежее пиво в пенопластовый или бумажный стаканчик. Для Европы речь идет не просто о продукте, а именно о напитке. Речь идет об опыте. Мы увидим, что дело не только в самой кофейне, но и в том, как кофе заваривается и потребляется."
             }
         }
+    },
+    "Gone with the Wind":
+    {
+        "country": "US", "insignia": "Pistol",
+        "memoir": "Gone with the Wind has been criticized as having perpetuated Civil War myths and black stereotypes. David Reynolds wrote that \"The white women are elegant, their menfolk are noble or at least dashing. And, in the background, the black slaves are mostly dutiful and content, clearly incapable of an independent existence.\" Reynolds likened Gone with the Wind to The Birth of a Nation and other re-imaginings of the South during the era of segregation, in which white Southerners are portrayed as defending traditional values, and the issue of slavery is largely ignored. The film has been described as a \"regression\" that promotes both the myth of the black rapist and the honorable and defensive role of the Ku Klux Klan during Reconstruction, and as a \"social propaganda\" film offering a \"white supremacist\" view of the past.",
+        "language": {
+            "RU": {
+                "title": "Унесённые ветром",
+                "memoir": "«Унесенные ветром» критиковались за то, что они увековечивали мифы Гражданской войны и стереотипы о черных. Дэвид Рейнольдс писал, что «белые женщины элегантны, их мужчины благородны или, по крайней мере, лихие. И на заднем плане черные рабы в основном послушны и довольны, явно неспособны к независимому существованию». Рейнольдс сравнил «Унесенные ветром» с «Рождением нации» и другими переосмыслениями Юга в эпоху сегрегации, в которых белые южане изображаются как защитники традиционных ценностей, а проблема рабства в значительной степени игнорируется. Фильм был описан как «регресс», который продвигает как миф о черном насильнике, так и почетную и оборонительную роль Ку-клукс-клана во время Реконструкции, и как фильм «социальной пропаганды», предлагающий «белый супремасистский» взгляд на прошлое."
+            }
+        }
+    },
+    "Sabrina Fairchild":
+    {
+        "country": "US", "insignia": "Palace",
+        "memoir": "Sabrina Fairchild is the young daughter of the Larrabee family's chauffeur, Thomas Fairchild, and has been in love with David Larrabee all her life. David, a three-times-married, non-working playboy, has never paid romantic attention to Sabrina. Since she has lived for years on the Larrabee estate in Long Island New York with her father, to him, she is still a child.",
+        "language": {
+            "RU": {
+                "title": "Сабрина Фэрчайлд",
+                "memoir": "Сабрина Фэрчайлд - молодая дочь шофера семьи Ларраби, Томаса Фэрчайлда, и всю жизнь влюблена в Дэвида Ларраби. Дэвид, трижды женатый, неработающий плейбой, никогда не оказывал Сабрине романтического внимания. Поскольку она много лет прожила в поместье Ларраби на Лонг-Айленде, штат Нью-Йорк, со своим отцом, для него она все еще ребенок."
+            }
+        }
+    },
+    "Some Like It Hot":
+    {
+        "country": "US", "insignia": "OrientExpress",
+        "memoir": "In Prohibition-era Chicago, Joe is a jazz saxophone player and an irresponsible, impulsive gambler and ladies' man; Jerry, his anxious friend, is a jazz double bass player. They work in a speakeasy owned by local Mafia boss \"Spats\" Colombo. Tipped off by informant \"Toothpick\" Charlie, the police raid the joint. Joe and Jerry escape, but later accidentally witness Spats and his henchmen gunning down Toothpick and his gang in revenge (an incident inspired by the Saint Valentine's Day Massacre). Spats and his gang see them as they flee. Broke, terrified, and desperate to leave Chicago, Joe and Jerry disguise themselves as women named Josephine and Daphne so they can join Sweet Sue and her Society Syncopators, an all-female band headed by train to Miami. On the train, Joe and Jerry befriend Sugar Kane, the band's vocalist and ukulele player.",
+        "language": {
+            "RU": {
+                "title": "В джазе только девушки",
+                "memoir": "В Чикаго эпохи сухого закона Джо - джазовый саксофонист, безответственный, импульсивный игрок и дамский угодник; Джерри, его беспокойный друг, джазовый контрабасист. Они работают в нелегальном баре, принадлежащем местному боссу мафии «Спатсу» Коломбо. Получив наводку от информатора «Зубочистки» Чарли, полиция совершает налет на заведение. Джо и Джерри сбегают, но позже случайно становятся свидетелями того, как Спатс и его приспешники расстреливают Зубочистку и его банду в отместку (инцидент, вдохновленный резней в День святого Валентина). Спатс и его банда видят, как они убегают. Разбитые, напуганные и отчаянно желающие покинуть Чикаго, Джо и Джерри маскируются под женщин по имени Жозефина и Дафна, чтобы присоединиться к Sweet Sue and her Society Syncopators, женской группе, направляющейся поездом в Майами. В поезде Джо и Джерри знакомятся с Шугар Кейн, вокалисткой группы и игроком на укулеле."
+            }
+        }
     }
 }
