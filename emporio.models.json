@@ -1,6 +1,5 @@
 {
-    "Audrey Hepburn":
-    {
+    "Audrey Hepburn": {
         "height": 1.7, "weight": 47,
         "sizes": "76-51-86", "nsfw": "true",
         "shoe_size": 10.5, "country": "EU",
@@ -9,8 +8,7 @@
             "RU": { "title": "Одри Хепберн" }
         }
     },
-    "Sydney Sweeney":
-    {
+    "Sydney Sweeney": {
         "height": 1.61, "weight": 56,
         "sizes": "91-63-91", "nsfw": "true",
         "shoe_size": 7.5, "country": "US",
@@ -19,8 +17,7 @@
             "RU": { "title": "Сидни Суини" }
         }
     },
-    "Marilyn Monroe":
-    {
+    "Marilyn Monroe": {
         "height": 1.66, "weight": 54,
         "sizes": "91-56-91", "nsfw": "true",
         "shoe_size": 7, "country": "US",
@@ -29,8 +26,7 @@
             "RU": { "title": "Мэрилин Монро" }
         }
     },
-    "Cara Delevingne":
-    {
+    "Cara Delevingne": {
         "height": 1.73, "weight": 51,
         "sizes": "81-61-87", "nsfw": "true",
         "shoe_size": 8.5, "country": "GB",
@@ -39,8 +35,7 @@
             "RU": { "title": "Кара Делевинь" }
         }
     },
-    "Victoria Justice":
-    {
+    "Victoria Justice": {
         "height": 1.66, "weight": 53,
         "sizes": "87-61-89", "nsfw": "true",
         "shoe_size": 7, "country": "US",
@@ -49,8 +44,7 @@
             "RU": { "title": "Виктория Джастис" }
         }
     },
-    "Camila Cabello":
-    {
+    "Camila Cabello": {
         "height": 1.57, "weight": 50,
         "sizes": "87-64-90", "nsfw": "true",
         "shoe_size": 7, "country": "US",
@@ -59,8 +53,7 @@
             "RU": { "title": "Камила Кабельо" }
         }
     },
-    "Olivia Culpo":
-    {
+    "Olivia Culpo": {
         "height": 1.66, "weight": 52,
         "sizes": "81-64-89", "nsfw": "true",
         "shoe_size": 8, "country": "US",
@@ -69,8 +62,7 @@
             "RU": { "title": "Оливия Калпо" }
         }
     },
-    "Barbara Palvin":
-    {
+    "Barbara Palvin": {
         "height": 1.75, "weight": 58,
         "sizes": "85-59-89", "nsfw": "true",
         "shoe_size": 8, "country": "HU",
@@ -79,8 +71,7 @@
             "RU": { "title": "Барбара Палвин" }
         }
     },
-    "European Café Culture":
-    {
+    "European Café Culture": {
         "country": "EU", "insignia": "Coffee",
         "maison": "https://coffeeaffection.com/european-coffee-culture",
         "memoir": "In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It’s about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed.",
@@ -91,8 +82,7 @@
             }
         }
     },
-    "Gone with the Wind":
-    {
+    "Gone with the Wind": {
         "country": "US", "insignia": "Pistol",
         "memoir": "Gone with the Wind has been criticized as having perpetuated Civil War myths and black stereotypes. David Reynolds wrote that \"The white women are elegant, their menfolk are noble or at least dashing. And, in the background, the black slaves are mostly dutiful and content, clearly incapable of an independent existence.\" Reynolds likened Gone with the Wind to The Birth of a Nation and other re-imaginings of the South during the era of segregation, in which white Southerners are portrayed as defending traditional values, and the issue of slavery is largely ignored. The film has been described as a \"regression\" that promotes both the myth of the black rapist and the honorable and defensive role of the Ku Klux Klan during Reconstruction, and as a \"social propaganda\" film offering a \"white supremacist\" view of the past.",
         "language": {
@@ -102,8 +92,7 @@
             }
         }
     },
-    "Sabrina Fairchild":
-    {
+    "Sabrina Fairchild": {
         "country": "US", "insignia": "Palace",
         "memoir": "Sabrina Fairchild is the young daughter of the Larrabee family's chauffeur, Thomas Fairchild, and has been in love with David Larrabee all her life. David, a three-times-married, non-working playboy, has never paid romantic attention to Sabrina. Since she has lived for years on the Larrabee estate in Long Island New York with her father, to him, she is still a child.",
         "language": {
@@ -113,8 +102,7 @@
             }
         }
     },
-    "Some Like It Hot":
-    {
+    "Some Like It Hot": {
         "country": "US", "insignia": "OrientExpress",
         "memoir": "In Prohibition-era Chicago, Joe is a jazz saxophone player and an irresponsible, impulsive gambler and ladies' man; Jerry, his anxious friend, is a jazz double bass player. They work in a speakeasy owned by local Mafia boss \"Spats\" Colombo. Tipped off by informant \"Toothpick\" Charlie, the police raid the joint. Joe and Jerry escape, but later accidentally witness Spats and his henchmen gunning down Toothpick and his gang in revenge (an incident inspired by the Saint Valentine's Day Massacre). Spats and his gang see them as they flee. Broke, terrified, and desperate to leave Chicago, Joe and Jerry disguise themselves as women named Josephine and Daphne so they can join Sweet Sue and her Society Syncopators, an all-female band headed by train to Miami. On the train, Joe and Jerry befriend Sugar Kane, the band's vocalist and ukulele player.",
         "language": {
