@@ -71,6 +71,17 @@
             "RU": { "title": "Барбара Палвин" }
         }
     },
+    "007 ELEMENTS": {
+        "country": "AT", "insignia": "007",
+        "maison": "https://www.007.com",
+        "memoir": "The name 007 ELEMENTS reflects the visitor's journey through a series of galleries, each distilling the craft of the signature elements that define a James Bond film. The installation focuses on Spectre, which was shot in Sölden and also features other titles in the long-running Bond film franchise.",
+        "language": {
+            "RU": {
+                "title": "'ЭЛЕМЕНТЫ 007",
+                "memoir": "Название 007 ELEMENTS отражает путешествие посетителя через ряд галерей, каждая из которых раскрывает мастерство фирменных элементов, определяющих фильм о Джеймсе Бонде. Инсталляция фокусируется на фильме «007: Спектр», который снимался в Зельдене, а также на других фильмах из долгой франшизы фильмов о Бонде."
+            }
+        }
+    },
     "European Café Culture": {
         "country": "EU", "insignia": "Coffee",
         "maison": "https://coffeeaffection.com/european-coffee-culture",
