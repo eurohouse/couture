@@ -71,6 +71,15 @@
             "RU": { "title": "Барбара Палвин" }
         }
     },
+    "Brigitte Bardot": {
+        "height": 1.66, "weight": 57,
+        "sizes": "89-63-89", "nsfw": "true",
+        "shoe_size": 7.5, "country": "FR",
+        "birthday": "September 28, 1934",
+        "language": {
+            "RU": { "title": "Брижит Бардо" }
+        }
+    },
     "007 ELEMENTS": {
         "country": "AT", "insignia": "007",
         "maison": "https://www.007.com",
